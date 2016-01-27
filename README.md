@@ -1,2 +1,13 @@
-# Courses
-Este repositorio nace con el objetivo de ir colocando apuntes, ejercicios, documentos de interés de los diferentes cursos online. Con el fin de ayudar a alguien si necesita el material y con el fin de poder consultarlo en un futuro.
+Este repositorio 
+---------------
+Lista de Cursos
+---------------
+ - Algorithms Parte I, impartido por Kevin Wayne y Robert Sedgewick de la Universidad de Princeton.
+ - Introduction to Power Electronics, impartido por Dr. Robert Erickson, de la universidad Colorado Boulder.
+ - This repository born with the aim put homeworks, notes, interesting documents of various online courses. In order to help someone or I need to see this in the future.
+
+--------------
+I. Course List
+--------------
+ - Algorithms Part I (By Kevin Wayne and Robert Sedgewich (Princeton University)
+ 
